@@ -2,35 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accounts.title "Account - &brandShortName;">
-<!ENTITY accountManager.width "450">
-<!ENTITY accountsWindow.title "Stato messaggeria istantanea">
-<!ENTITY accountsWindow2.style "width: 41em; height: 27em;">
-<!ENTITY accountManager.newAccount.label "Nuovo account">
+<!-- Account manager window for Instantbird -->
+<!ENTITY accounts.title                      "Account - &brandShortName;">
+<!-- Instant messaging account status window for Thunderbird -->
+<!ENTITY accountsWindow.title                "Stato messaggeria istantanea">
+
+<!ENTITY accountManager.newAccount.label     "Nuovo account">
 <!ENTITY accountManager.newAccount.accesskey "N">
-<!ENTITY accountManager.close.label "Chiudi">
-<!ENTITY accountManager.close.accesskey "h">
-<!ENTITY accountManager.close.commandkey "a">
-<!ENTITY accountManager.noAccount.title "Nessun account configurato">
+<!ENTITY accountManager.close.label          "Chiudi">
+<!ENTITY accountManager.close.accesskey      "h">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Nessun account configurato">
 <!ENTITY accountManager.noAccount.description "Fare clic sul pulsante &accountManager.newAccount.label; per utilizzare la procedura guidata di &brandShortName; per la configurazione di un nuovo account.">
-<!ENTITY account.autoSignOn.label "Autenticazione all'avvio">
+<!ENTITY account.autoSignOn.label     "Autenticazione all'avvio">
 <!ENTITY account.autoSignOn.accesskey "A">
-<!ENTITY account.connect.label "Collega">
-<!ENTITY account.connect.accesskey "o">
-<!ENTITY account.disconnect.label "Scollega">
+<!ENTITY account.connect.label        "Collega">
+<!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "Scollega">
 <!ENTITY account.disconnect.accesskey "S">
-<!ENTITY account.delete.label "Elimina">
-<!ENTITY account.delete.accesskey "E">
-<!ENTITY account.edit.label "Proprietà">
-<!ENTITY account.edit.accesskey "P">
-<!ENTITY account.moveup.label "Sposta su">
-<!ENTITY account.movedown.label "Sposta giù">
-<!ENTITY account.cancelReconnection.label "Annulla la riconnessione">
-<!ENTITY account.cancelReconnection.accesskey "A">
-<!ENTITY account.copyDebugLog.label "Copia il log di debug">
+<!ENTITY account.edit.label           "Proprietà">
+<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.cancelReconnection.label         "Annulla la riconnessione">
+<!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.copyDebugLog.label     "Copia il log di debug">
 <!ENTITY account.copyDebugLog.accesskey "C">
-<!ENTITY account.showDebugLog.label "Mostra log di debug">
-<!ENTITY account.showDebugLog.accesskey "M">
-<!ENTITY account.connecting "Connessione in corso…">
-<!ENTITY account.disconnecting "Disconnessione…">
-<!ENTITY account.disconnected "Non collegato">
+<!ENTITY account.connecting           "Connessione in corso…">
+<!ENTITY account.disconnecting        "Disconnessione…">
+<!ENTITY account.disconnected         "Non collegato">

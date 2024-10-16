@@ -58,38 +58,9 @@
 <!ENTITY calendar.today.button.tooltip          "Vai a Oggi" >
 <!ENTITY calendar.todaypane.button.tooltip      "Visualizza pannello Oggi" >
 
-<!ENTITY calendar.day.button.tooltip            "Passa alla vista giorno" >
-<!ENTITY calendar.week.button.tooltip           "Passa alla vista settimana" >
-<!ENTITY calendar.month.button.tooltip          "Passa alla vista mese" >
-<!ENTITY calendar.multiweek.button.tooltip      "Passa alla vista multi-settimana" >
-
-<!ENTITY calendar.nextday.label                 "Giorno successivo" >
-<!ENTITY calendar.prevday.label                 "Giorno precedente" >
-<!ENTITY calendar.nextday.accesskey             "s" >
-<!ENTITY calendar.prevday.accesskey             "d" >
-<!ENTITY calendar.nextweek.label                "Settimana successiva" >
-<!ENTITY calendar.prevweek.label                "Settimana precedente" >
-<!ENTITY calendar.nextweek.accesskey            "s" >
-<!ENTITY calendar.prevweek.accesskey            "d" >
-<!ENTITY calendar.nextmonth.label               "Mese successivo" >
-<!ENTITY calendar.prevmonth.label               "Mese precedente" >
-<!ENTITY calendar.nextmonth.accesskey           "s" >
-<!ENTITY calendar.prevmonth.accesskey           "d" >
-
-<!ENTITY calendar.navigation.nextday.tooltip    "Un giorno avanti" >
-<!ENTITY calendar.navigation.prevday.tooltip    "Un giorno indietro" >
-<!ENTITY calendar.navigation.nextweek.tooltip   "Una settimana avanti" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "Una settimana indietro" >
-<!ENTITY calendar.navigation.nextmonth.tooltip  "Un mese avanti" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "Un mese indietro" >
-
 <!ENTITY calendar.newevent.button.label         "Nuovo evento" >
 <!ENTITY calendar.newtask.button.label          "Nuova attività" >
 
-<!ENTITY calendar.day.button.label              "Giorno" >
-<!ENTITY calendar.week.button.label             "Settimana" >
-<!ENTITY calendar.month.button.label            "Mese" >
-<!ENTITY calendar.multiweek.button.label        "Multi-settimana" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Solo giorni lavorativi" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "S" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Attività nella vista" >
@@ -274,8 +245,6 @@
 <!ENTITY calendar.context.removeserver.accesskey       "R">
 <!ENTITY calendar.context.unsubscribeserver.label      "Rimuovi sottoscrizione a calendario…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "c">
-<!ENTITY calendar.context.synccalendars.label          "Sincronizza calendari">
-<!ENTITY calendar.context.synccalendars.accesskey      "c">
 <!ENTITY calendar.context.publish.label                "Pubblica calendario…">
 <!ENTITY calendar.context.publish.accesskey            "u">
 <!ENTITY calendar.context.export.label                 "Esporta calendario…">

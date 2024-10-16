@@ -4,9 +4,9 @@
 
 permissions-reminder-window2 =
     .title = Eccezioni
-permissions-dialog-title = Eccezioni
 permission-preferences-close-window =
     .key = w
+permissions-dialog-title = Eccezioni
 website-address-label =
     .value = Indirizzo del sito:
     .accesskey = I

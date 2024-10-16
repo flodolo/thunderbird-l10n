@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-calendar-ics-file-window-2 =
-    .title = Importa eventi e attività del calendario
 calendar-ics-file-window-title = Importa eventi e attività del calendario
 calendar-ics-file-dialog-import-event-button-label = Importa evento
 calendar-ics-file-dialog-import-task-button-label = Importa attività
@@ -33,11 +31,15 @@ calendar-ics-file-dialog-progress-message = Importazione in corso…
 calendar-ics-file-import-success = Importato con successo!
 calendar-ics-file-import-error = Si è verificato un errore e l’importazione è fallita.
 calendar-ics-file-import-complete = Importazione completata.
+# Variables:
+# $duplicatesCount (Number) - Number of items already existing in the target calendar.
 calendar-ics-file-import-duplicates =
     { $duplicatesCount ->
         [one] Un elemento è stato ignorato dato che esiste già nel calendario di destinazione.
        *[other] { $duplicatesCount } elementi sono stati ignorati dato che esistono già nel calendario di destinazione.
     }
+# Variables:
+# $errorsCount (Number) - Number of errors while importing ics file.
 calendar-ics-file-import-errors =
     { $errorsCount ->
         [one] L’importazione di un elemento è fallita. Controllare la Console degli errori per i dettagli.
